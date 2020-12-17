@@ -3,7 +3,6 @@
 Un site internet de style portfolio qui me permettra le développement de mon image en qualité de développeur web ainsi que celle de mon réseau.
 Le site sera articulé avec une présentation, les compétences et les technologies en mesure d'être déployées au profit d'un client ou d'un éventuel recrutement.
 
-
 Pour qui?
 Ce projet est réservé uniquement à des développeurs **juniors** 
 
