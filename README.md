@@ -9,7 +9,6 @@ Ce projet est réservé uniquement à des développeurs **juniors**
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
 
 
-![Soldier](https://pixabay.com/fr/photos/guerre-d%C3%A9sert-armes-%C3%A0-feu-gunshow-1447021/.jpg"Combat,code")
 
 Pré-requis
 
