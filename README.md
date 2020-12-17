@@ -29,12 +29,10 @@ Pré-requis
 
 
 Fabriqué avec
-Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
-
-exemples :
 
 Materialize.css - Framework CSS (front-end)
 VS - Editeur de textes
+
 Contributing
 Si vous souhaitez contribuer, lisez le fichier CONTRIBUTING.md pour savoir comment le faire.
 
